@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.lakex.paystack.flutterpaystack">
+  <application>
+    <meta-data android:name="co.paystack.android.PublicKey" android:value="pk_test_72545aedff84ed364a2bed6a4eba5ba7c7ae8990"/>
+  </application>
+</manifest>

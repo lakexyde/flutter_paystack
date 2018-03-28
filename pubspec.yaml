@@ -1,0 +1,15 @@
+name: flutter_paystack
+description: A PayStack wrapper for flutter apps.
+version: 0.0.1
+author: Olalekan Oladipupo
+homepage: http://github.com/lakexyde
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+flutter:
+  plugin:
+    androidPackage: com.lakex.paystack.flutterpaystack
+    pluginClass: FlutterPaystackPlugin
