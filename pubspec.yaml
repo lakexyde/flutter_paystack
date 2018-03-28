@@ -1,12 +1,16 @@
 name: flutter_paystack
 description: A PayStack wrapper for flutter apps.
 version: 0.0.1
-author: Olalekan Oladipupo
-homepage: https://github.com/lakexyde/flutter_paystack
+author: Olalekan Oladipupo<me@olalekanoladipupo.com>
+homepage: https://github.com/lakexyde/flutter_paystack.git
 
 dependencies:
   flutter:
     sdk: flutter
+
+environment:
+  sdk: ">=2.0.0-dev.28.0 <3.0.0"
+  flutter: ">=0.1.4 <2.0.0"
 
 
 flutter:
